@@ -32,8 +32,8 @@
                 </tr>
                 <tr>   
                     <td> M-S EXCEL </td>
-                    <td>Lama Hayo
-                        <td> Z
+                    <td>100
+                        <td> A+
                     </td>
                     <td> COMPUTER
                     </td>
@@ -41,8 +41,8 @@
                
                 <tr>
                         <td>M-S POWER POINT </td>
-                        <td>Lama hayo</td>
-                        <td> Z
+                        <td>100</td>
+                        <td> A+
                         <td> COMPUTER
                         </td>
                     </tr>
